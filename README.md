@@ -31,3 +31,11 @@ http://w3c.github.io/html/semantics.html#the-html-element<br />
 ## ●其他延伸學習<br />
 SEO與meta tag的效益<br />
 https://molecular-service-science.com/2015/06/13/seo-meta-tag-introduction-and-best-practice/
+
+## ●常用工具教學<br />
+★Chrome Dev Tools<br />
+https://developers.google.com/web/tools/chrome-devtools/<br />
+https://www.codeschool.com/courses/discover-devtools<br />
+
+★Markdown<br />
+http://markdown.tw/<br />
