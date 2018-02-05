@@ -42,3 +42,12 @@ http://markdown.tw/<br />
 
 ## ●網頁素材<br />
 https://www.pexels.com/
+
+## ●色碼表<br />
+https://www.toodoo.com/db/color.html<br />
+https://www.ifreesite.com/color/<br />
+
+---------------------------------------------------------------------------------------------------------------------
+# CSS 基本
+●使用CSS3 :nth-child(n) 選取器教學<br />
+http://csscoke.com/2013/09/21/%E4%BD%BF%E7%94%A8css3-nth-childn-%E9%81%B8%E5%8F%96%E5%99%A8%E8%A9%B3%E8%A7%A3/
