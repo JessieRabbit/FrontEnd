@@ -40,6 +40,16 @@ https://www.codeschool.com/courses/discover-devtools<br />
 ★Markdown<br />
 http://markdown.tw/<br />
 
+## ●30天學習網站<br />
+*rxjs<br />
+https://ithelp.ithome.com.tw/users/20103367/ironman/1199<br />
+*ngrx<br />
+https://ithelp.ithome.com.tw/users/20103574/ironman/1519<br />
+*angular material<br />
+https://ithelp.ithome.com.tw/users/20020617/ironman/1263<br />
+*angular2<br />
+https://ithelp.ithome.com.tw/users/20103745/ironman/1160?page=1<br />
+
 ## ●網頁素材<br />
 https://www.pexels.com/
 
@@ -51,10 +61,12 @@ https://www.ifreesite.com/color/<br />
 # CSS 基本
 ●使用CSS3 :nth-child(n) 選取器教學<br />
 http://csscoke.com/2013/09/21/%E4%BD%BF%E7%94%A8css3-nth-childn-%E9%81%B8%E5%8F%96%E5%99%A8%E8%A9%B3%E8%A7%A3/<br />
+
 ●Css遊戲學習<br />
 http://flexboxfroggy.com/<br />
 http://cssgridgarden.com/<br />
 https://flukeout.github.io/<br />
+
 ●Css專用學習網（Ｗ3School太舊，不要看！）<br />
 https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance<br />
 ＊小觀念<br />
