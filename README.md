@@ -73,3 +73,6 @@ https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Cascade_a
 Test.test1  .會全部跑<br />
 Test>test1 確保要再下一層 （>比.還快）<br />
 Test* *全部<br />
+
+●Button click 效果<br />
+https://stackoverflow.com/questions/44263892/how-to-style-a-clicked-button-in-css<br />
