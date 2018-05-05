@@ -2,6 +2,7 @@
 前端工程師基本概念筆記 EX:html、JS...等<br />
 ## ●一些前端的codeStyle<br />
 參考出處: http://pixnet.github.io/frontend-guideline/<br />
+參考出處: https://github.com/rwaldron/idiomatic.js/blob/master/translations/zh_TW/readme.md<br />
 > 1.有開始標籤<body>，就一定要有結束標籤</body><br />
 > 2.每行須縮排(4個空格)，在任何環境render結果一致<br />
 > 3.屬性不要用單引號，使用雙引號<br />
@@ -36,6 +37,9 @@ https://molecular-service-science.com/2015/06/13/seo-meta-tag-introduction-and-b
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
 https://www.codeschool.com/courses/discover-devtools<br />
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading?hl=zh-tw<br />
+
+
 
 ★Markdown<br />
 http://markdown.tw/<br />
