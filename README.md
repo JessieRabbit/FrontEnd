@@ -31,7 +31,11 @@ http://w3c.github.io/html/semantics.html#the-html-element<br />
 > 10.避免再JavaScript寫Markup，讓性能更差、難找更難編輯<br />
 ## ●其他延伸學習<br />
 SEO與meta tag的效益<br />
-https://molecular-service-science.com/2015/06/13/seo-meta-tag-introduction-and-best-practice/
+https://molecular-service-science.com/2015/06/13/seo-meta-tag-introduction-and-best-practice/<br />
+
+ECMAScript 6 入门<br />
+阮一峰.  相關基本語法介紹 與set map....等介紹<br />
+http://es6.ruanyifeng.com/#docs/set-map<br />
 
 ## ●常用工具教學<br />
 ★Chrome Dev Tools<br />
