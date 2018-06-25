@@ -33,6 +33,13 @@ http://w3c.github.io/html/semantics.html#the-html-element<br />
 SEO與meta tag的效益<br />
 https://molecular-service-science.com/2015/06/13/seo-meta-tag-introduction-and-best-practice/<br />
 
+程序員的後花園<br />
+https://com-it.tech/archives/category/前端開發<br />
+
+相對路徑 和 絕對路徑<br />
+https://dotblogs.com.tw/im_sqz777/2017/07/26/220713<br />
+https://www.jianshu.com/p/cf740c7960c3<br />
+
 ECMAScript 6 入门<br />
 阮一峰.  相關基本語法介紹 與set map....等介紹<br />
 http://es6.ruanyifeng.com/#docs/set-map<br />
@@ -64,6 +71,12 @@ https://www.pexels.com/
 ## ●色碼表<br />
 https://www.toodoo.com/db/color.html<br />
 https://www.ifreesite.com/color/<br />
+
+## ●github learn<br />
+https://gitbook.tw/chapters/github/push-to-github.html<br />
+
+## ●vscode 推薦extension<br />
+https://zhuanlan.zhihu.com/p/36020180
 
 ---------------------------------------------------------------------------------------------------------------------
 # CSS 基本
