@@ -29,6 +29,14 @@ http://w3c.github.io/html/semantics.html#the-html-element<br />
 <img class="nogood" src="...">
 ```
 > 10.避免再JavaScript寫Markup，讓性能更差、難找更難編輯<br />
+## ●ngrx 相關學習<br />
+http://oomusou.io/angular/ngrx/<br />
+https://github.com/fezaoduke/TranslationInstitute/blob/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8ngrx%E7%AE%A1%E7%90%86Angular%E7%8A%B6%E6%80%81.md<br />
+https://blog.kevinyang.net/2017/02/05/angular-ngrx-store/<br />
+https://juejin.im/post/58ed71f5a0bb9f006a4aeb9b<br />
+https://dotblogs.com.tw/kinanson/2017/03/30/114819<br />
+https://ithelp.ithome.com.tw/articles/10196784?sc=iThelpR<br />
+
 ## ●其他延伸學習<br />
 SEO與meta tag的效益<br />
 https://molecular-service-science.com/2015/06/13/seo-meta-tag-introduction-and-best-practice/<br />
