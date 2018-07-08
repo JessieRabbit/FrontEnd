@@ -52,6 +52,9 @@ ECMAScript 6 入门<br />
 阮一峰.  相關基本語法介紹 與set map....等介紹<br />
 http://es6.ruanyifeng.com/#docs/set-map<br />
 
+loadsh<br />
+http://lodash.think2011.net/uniqBy<br />
+
 ## ●常用工具教學<br />
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
@@ -85,6 +88,9 @@ https://gitbook.tw/chapters/github/push-to-github.html<br />
 
 ## ●vscode 推薦extension<br />
 https://zhuanlan.zhihu.com/p/36020180
+
+## ●vscode 快捷鍵<br />
+Command + p 查找此專案的檔案<br />
 
 ---------------------------------------------------------------------------------------------------------------------
 # CSS 基本
