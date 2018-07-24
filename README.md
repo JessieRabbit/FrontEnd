@@ -55,6 +55,9 @@ http://es6.ruanyifeng.com/#docs/set-map<br />
 loadsh<br />
 http://lodash.think2011.net/uniqBy<br />
 
+angular5 update angular6<br />
+https://www.udemy.com/angular-zero/learn/v4/announcements?ids=1633416<br />
+
 ## ●常用工具教學<br />
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
