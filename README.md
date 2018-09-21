@@ -58,6 +58,13 @@ http://lodash.think2011.net/uniqBy<br />
 angular5 update angular6<br />
 https://www.udemy.com/angular-zero/learn/v4/announcements?ids=1633416<br />
 
+google瀏覽器切換國家步驟<br />
+```
+1. 先去更改語言設定chrome://settings/?search=%E8%AA%9E%E8%A8%80
+2. 把要的語言移到最頂端後（ex:我想測試英文，就把英文移到最頂端）
+3. 然後重開chrome 再去網頁看就會更新現在瀏覽器所設定的語言
+```
+
 ## ●常用工具教學<br />
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
