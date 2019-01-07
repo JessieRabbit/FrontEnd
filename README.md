@@ -126,9 +126,12 @@ https://stackoverflow.com/questions/44263892/how-to-style-a-clicked-button-in-cs
 
 ---------------------------------------------------------------------------------------------------------------------
 ## ●大師論壇與網站<br />
-https://twitter.com/will_huang
+https://twitter.com/will_huang<br />
 
-
+保哥ppt<br />
+https://www.slideshare.net/WillHuangTW?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview<br />
 ---------------------------------------------------------------------------------------------------------------------
 ## ●git基本教學<br />
 https://www.jianshu.com/p/e25c763b9816
+
+
