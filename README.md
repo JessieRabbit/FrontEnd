@@ -124,6 +124,8 @@ Test* *全部<br />
 ●Button click 效果<br />
 https://stackoverflow.com/questions/44263892/how-to-style-a-clicked-button-in-css<br />
 
+●fontawesome 只要是fa=>第四版，fas第5版
+
 ---------------------------------------------------------------------------------------------------------------------
 ## ●大師論壇與網站<br />
 https://twitter.com/will_huang<br />
