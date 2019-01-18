@@ -1,6 +1,12 @@
 # unitest<br/>
 unitest 國外<br/>
 https://medium.com/spektrakel-blog/angular-testing-snippets/home<br/>
+***推薦***（實作練習）
+https://blog.kevinyang.net/2017/01/07/angular-test-learning-note/<br/>
+
+***Jasmine-Matchers***<br/>
+https://github.com/JamieMason/Jasmine-Matchers<br/>
+
 *單元測試、整合測試、驗收測試*<br/>
 ＴＤＤ 、 ＡＴＤＤ差別<br/>
 ### *心法：<br/>
