@@ -134,6 +134,12 @@ https://twitter.com/will_huang<br />
 https://www.slideshare.net/WillHuangTW?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview<br />
 ---------------------------------------------------------------------------------------------------------------------
 ## ●git基本教學<br />
-https://www.jianshu.com/p/e25c763b9816
+https://www.jianshu.com/p/e25c763b9816<br />
+https://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/<br />
+https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/<br />
+https://stackoverflow.com/questions/3212459/is-there-a-command-to-undo-git-init<br />
 
-
+---------------------------------------------------------------------------------------------------------------------
+## ●command line基本教學<br />
+https://gitbook.tw/chapters/command-line/command-line.html<br />
+https://gitbook.tw/chapters/github/fail-to-push.html<br />
