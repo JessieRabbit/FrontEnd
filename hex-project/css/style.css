@@ -1,0 +1,29 @@
+#strId {
+    color: blue;
+    font-size: 48px;
+}
+
+.mainId {
+    color: blue;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.boxMouse {
+    width: 100px;
+    height: 100px;
+    background-color: forestgreen;
+}
+
+/* body { */
+/* 取消游標 */
+/* cursor: none;
+} */
+
+/* .mouseImg {
+    position: fixed;
+} */

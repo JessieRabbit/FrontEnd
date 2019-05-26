@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <!-- css -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <style>
         #title1 {
             color: rebeccapurple;
@@ -15,7 +15,7 @@
     </style>
 </head>
 
-<body>
+<body class="checkbody">
     <ul>
         <li><a href="#title1">加油1</a></li>
         <li><a href="#title2">加油2</a></li>
@@ -99,6 +99,157 @@
     <!-- 0510 變數-->
     <h1 id="price"></h1>
     <h2 id="content"></h2>
+
+    <!-- 0514 -->
+    <p>我來到一個紅豆餅攤位，看到一個紅豆餅<em id="aPriceID"></em>元</p>
+    <p>我發現我口袋，只有<em id="myPriceID"></em>元</p>
+    <p>還差<em id="totalID"></em>元</p>
+
+    <!-- 0515 func -->
+    <p>哈囉<em id="greetID"></em></p>
+    <p id="orderTotal"></p>
+
+    <!-- 0516 計算機 -->
+    <p>顧客：給我<input type="text" id="hamNumID">個漢堡，再<input type="text" id="eggNumID">個蛋餅</p>
+    <p>服務生：<input type="button" id="countID" value="計算中">，好的！總共<em id="totalNumID"></em>元</p>
+
+    <!-- 比較運算子 -->
+    <p>你是當月壽星嗎？</p>
+    <p id="birthdayId"></p>
+    <p>人數還未到齊？</p>
+    <p id="peopleId"></p>
+
+    <!-- 0517 邏輯運算子-->
+    <p>請問你是VIP嗎？帳單有滿千嗎？兩個都有才可送贈品</p>
+    <p id="andID"></p>
+    <p>抱歉我記錯了，只要一個達到就可送囉</p>
+    <p id="orID"></p>
+
+    <!-- 0519 querySelector-->
+    <p id="selectorID" class="selectClass"><em></em></p>
+    <!-- 0520 querySelectorAll-->
+    <p id="selectorID" class="selectClass"><em></em></p>
+
+    <!-- setAttribute -->
+    <h1 class="h1Class">
+        <a href="#">title</a>
+    </h1>
+    <div class="str">hello</div>
+
+    <!-- innerHTML -->
+    <div id="main"></div>
+    <ul class="list"></ul>
+
+    <!-- innerHTML、for -->
+    <h1>每個農場的農夫名字</h1>
+    <ui class="farmerList"></ui>
+
+    <!-- createElement -->
+    <h1 class="createClass">
+        <em>2222</em>
+    </h1>
+    <!-- createElement、for -->
+    <h1>每個農場的農夫名字2</h1>
+    <ui class="farmerList2"></ui>
+
+    <!-- event -->
+    <input type="button" class="inputClass" value="點擊">
+    <!-- 0521 click各種事件寫法差異 -->
+    <input type="button" class="btn" value="點擊">
+    <!-- onXX 和 監聽差異 -->
+    <input type="button" class="btnOn" value="On點擊">
+    <input type="button" class="btnAdd" value="Add點擊">
+    <!-- event bubbling 、 event capturing -->
+    <div class="box"></div>
+    <!-- preventDefault -->
+    <a href="http://www.yahoo.com.tw/" class="link" style="margin-top: 1800px;display:block">連接</a>
+    <!-- target -->
+    <div class="header">
+        <ul style="padding-top: 100px;border:1px solid #000000">
+            <li><a href="#">123</a></li>
+        </ul>
+    </div>
+
+    <!-- change -->
+    <select id="areaId">
+        <option value="台北區">台北區</option>
+        <option value="桃園區">桃園區</option>
+    </select>
+    <ul class="listClass"></ul>
+
+    <!-- keycode -->
+    <div class="div1">123</div>
+    <div class="div2">321</div>
+    <div class="div3">111</div>
+    <!-- mouse -->
+    <div class="boxMouse"></div>
+    <!-- mouse搭配座標 -->
+    <div class="mouseImg">
+        <img src="img/sticker.png" width="100px">
+    </div>
+    <!-- 監聽優化 -->
+    <ul class="listUL" style="width: 100px; height: 100px;background-color: forestgreen;">
+        <li>好想兔</li>
+        <li>查理</li>
+    </ul>
+    <!-- localStorage -->
+    <h2>請輸入你的名字</h2>
+    <input type="text" class="textClass">
+    <input type="button" class="btnClass" value="點擊">
+    <input type="button" class="btnCall" value="點擊呼叫名字">
+
+    <!-- 0522 data-* -->
+    <ul class="dataClass">
+        <li data-dog="3" data-cat="1" class="listli">寵物</li>
+    </ul>
+
+    <!-- data-*結合array -->
+    <ul class="listData" style="background:#000000; color:yellow;padding: 50px;">
+    </ul>
+
+    <!-- localStorage作業 -->
+    <input type="text" class="textAdd">
+    <input type="button" value="加入代辦" class="addBtn">
+    <ul class="addList"></ul>
+
+    <!-- ajax -->
+    <div class="ajaxClass"></div>
+
+    <!-- 傳統form -->
+    <!-- <form action="index.html">
+        帳號:
+        <input type="text" name="account" class="account">
+        <br />
+        密碼:
+        <input type="text" name="password" class="password">
+        <br />
+        <div class="hint" style="color: blueviolet"></div>
+        <br />
+        <input type="submit" value="送出" class="register">
+    </form> -->
+    <!-- 優化表單 -->
+    <h2>註冊</h2>
+    帳號:
+    <input type="text" name="account" class="account">
+    <br />
+    密碼:
+    <input type="text" name="password" class="password">
+    <br />
+    <div class="hint" style="color: blueviolet"></div>
+    <br />
+    <input type="button" value="送出" class="register">
+    <br />
+
+    <h2>登入</h2>
+    帳號:
+    <input type="text" name="accountLogin" class="accountLogin">
+    <br />
+    密碼:
+    <input type="text" name="passwordLogin" class="passwordLogin">
+    <br />
+    <div class="hintLogin" style="color: royalblue"></div>
+    <br />
+    <input type="button" value="登入" class="login">
 
     <!-- 放到body裡面與渲染有關 -->
     <script src="js/all.js"></script>
