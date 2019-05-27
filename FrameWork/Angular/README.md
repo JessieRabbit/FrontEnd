@@ -1,2 +1,2 @@
-## 學習FrameWork note<br />
+## learn angular note<br />
 
