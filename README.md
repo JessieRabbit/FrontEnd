@@ -72,7 +72,6 @@ https://www.codeschool.com/courses/discover-devtools<br />
 https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading?hl=zh-tw<br />
 
 
-
 ★Markdown<br />
 http://markdown.tw/<br />
 
@@ -99,7 +98,27 @@ https://www.ifreesite.com/color/<br />
 https://gitbook.tw/chapters/github/push-to-github.html<br />
 
 ## ●vscode 推薦extension<br />
-https://zhuanlan.zhihu.com/p/36020180
+https://zhuanlan.zhihu.com/p/36020180<br />
+*angular 7 and typescript<br />
+*angular v7 snippets<br />
+*angular 2 switcher<br />
+*Auto import<br />
+*Beautify<br />
+*chinese<br />
+*Chinese Translation<br />
+*Debbuger for Chrome<br />
+*Document This<br />
+*EditorCongig for Vs Code<br />
+*File peek<br />
+*Html class suggestions<br />
+*Html snippets<br />
+*javascript Es6 code ...<br />
+*Move TS<br />
+*Path interllisense<br />
+*Power Mode<br />
+*vscode-icon<br />
+*gitlens<br />
+*tslint<br />
 
 ## ●vscode 快捷鍵<br />
 Command + p 查找此專案的檔案<br />
