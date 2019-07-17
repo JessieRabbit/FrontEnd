@@ -71,7 +71,10 @@ https://developers.google.com/web/tools/chrome-devtools/<br />
 https://www.codeschool.com/courses/discover-devtools<br />
 https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading?hl=zh-tw<br />
 
-★codepen(side Project)<br />
+★Chrome 擴充工具(前端常用)<br />
+https://ithelp.ithome.com.tw/articles/10207116<br />
+
+★codepen(small side Project)<br />
 https://codepen.io/dashboard/<br />
 
 ★Markdown<br />
