@@ -115,8 +115,8 @@ https://www.ifreesite.com/color/<br />
 https://www.iconfinder.com/<br />
 
 ## ●unsplash、Flickr免費解析圖庫下載<br />
-https://unsplash.com/<br />
-https://www.flickr.com/<br />
+free: https://unsplash.com/<br />
+有些有版權注意: https://www.flickr.com/<br />
 
 ## ●github learn<br />
 https://gitbook.tw/chapters/github/push-to-github.html<br />
