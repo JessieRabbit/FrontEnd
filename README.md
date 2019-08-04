@@ -29,6 +29,7 @@ http://w3c.github.io/html/semantics.html#the-html-element<br />
 <img class="nogood" src="...">
 ```
 > 10.避免再JavaScript寫Markup，讓性能更差、難找更難編輯<br />
+
 ## ●ngrx 相關學習<br />
 http://oomusou.io/angular/ngrx/<br />
 https://github.com/fezaoduke/TranslationInstitute/blob/master/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%94%A8ngrx%E7%AE%A1%E7%90%86Angular%E7%8A%B6%E6%80%81.md<br />
@@ -66,6 +67,9 @@ google瀏覽器切換國家步驟<br />
 ```
 
 ## ●常用工具教學<br />
+★網頁關鍵字速記表
+可到六角HTML、CSS最後一章下載
+
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
 https://www.codeschool.com/courses/discover-devtools<br />
