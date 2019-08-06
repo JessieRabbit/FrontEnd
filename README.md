@@ -67,8 +67,11 @@ google瀏覽器切換國家步驟<br />
 ```
 
 ## ●常用工具教學<br />
-★網頁關鍵字速記表
-可到六角HTML、CSS最後一章下載
+★網頁關鍵字速記表<br />
+可到六角HTML、CSS最後一章下載ㄒ
+
+★網頁關鍵字搜尋技巧<br />
+可到六角HTML、CSS最後一章觀看<br />
 
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
