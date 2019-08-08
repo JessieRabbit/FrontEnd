@@ -91,6 +91,9 @@ https://codepen.io/dashboard/<br />
 https://imgur.com/<br />
 https://upload.cc/<br />
 
+★screensize載具寬度<br />
+http://screensiz.es/<br />
+
 ★Markdown<br />
 http://markdown.tw/<br />
 
