@@ -79,6 +79,9 @@ google瀏覽器切換國家步驟<br />
 ★網頁關鍵字搜尋技巧<br />
 可到六角HTML、CSS最後一章觀看<br />
 
+★tinypng壓縮圖片(壓縮圖片大小)<br />
+https://tinypng.com/<br />
+
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
 https://www.codeschool.com/courses/discover-devtools<br />
