@@ -82,6 +82,10 @@ google瀏覽器切換國家步驟<br />
 ★tinypng壓縮圖片(壓縮圖片大小)<br />
 https://tinypng.com/<br />
 
+★工程師與設計師溝通<br />
+https://www.sketch.com/<br />
+https://zeplin.io/<br />
+
 ★Chrome Dev Tools<br />
 https://developers.google.com/web/tools/chrome-devtools/<br />
 https://www.codeschool.com/courses/discover-devtools<br />
